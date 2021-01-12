@@ -25,4 +25,4 @@ git checkout -b todoAddButton
 ```
 
 Do all of your work in this branch.
-Then you want to push this branch `todoAddButton` and create a pull request on GitHub.
+Then you want to push this branch `todoAddButton` and create a pull request to the `main` on GitHub.

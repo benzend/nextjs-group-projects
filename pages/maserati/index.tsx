@@ -1,11 +1,9 @@
-import { Typography } from "@material-ui/core";
+import Maserati from "../../modules/maserati/Maserati";
 
 export default function Home() {
   return (
     <>
-      <Typography variant="h1" color="textPrimary">
-        Maserati Home
-      </Typography>
+      <Maserati />
     </>
   );
 }
