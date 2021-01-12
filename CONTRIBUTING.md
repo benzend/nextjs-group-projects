@@ -8,16 +8,18 @@ right below the .next folder and above our node_modules folder as one of the mai
 
 ## Our Tech Stack
 
+- React
 - Next.js
-- TypeScript
 - Material UI
-- Yarn
-- ESLinter
-- Jest
+- TypeScript
+- jest, Cypress for testing
+- Firebase (BaaS)
+- Netlify
 
 ## Work Flow
 
 To start, create a branch with the name of the feature you are working on.
+
 EX:
 
 ```bash
