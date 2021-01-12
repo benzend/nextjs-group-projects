@@ -18,6 +18,11 @@ right below the .next folder and above our node_modules folder as one of the mai
 ## Work Flow
 
 To start, create a branch with the name of the feature you are working on.
-EX. todoAddButton
+EX:
+
+```bash
+git checkout -b todoAddButton
+```
+
 Do all of your work in this branch.
 Then you want to push this branch `todoAddButton` and create a pull request on GitHub.
